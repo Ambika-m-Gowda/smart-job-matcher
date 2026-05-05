@@ -37,13 +37,13 @@ A powerful **AI-based job search assistant** that helps freshers and job seekers
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home](screenshots/home.png)
+![Home](homepage.png)
 
 ### 🔹 Job Listings
-![Jobs](screenshots/jobs.png)
+![Jobs](joblistings.png)
 
 ### 🔹 Resume Matching
-![Resume](screenshots/resume.png)
+![Resume](resumematching.png)
 
 ---
 
